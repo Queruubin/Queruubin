@@ -37,9 +37,8 @@ Here are some of the technologies I work with:
 
 ## Find Me Around the Web
 
-- LinkedIn: [Samuel Castelblanco](https://www.linkedin.com/in/samuelcastelblanco/)
-- Twitter: [@sam_castel](https://twitter.com/sam_castel)
-- Portfolio: [samuelcastelblanco.com](https://www.samuelcastelblanco.com)
+- LinkedIn: [Samuel Castelblanco](www.linkedin.com/in/samuel-castelblanco-dev)
+- Portfolio: coming soon!
 
 ## Recent Projects
 
