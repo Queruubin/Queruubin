@@ -37,13 +37,7 @@ Here are some of the technologies I work with:
 
 ## Find Me Around the Web
 
-- LinkedIn: [Samuel Castelblanco](www.linkedin.com/in/samuel-castelblanco-dev)
-- Portfolio: coming soon!
-
-## Recent Projects
-
-- **[Project Name](link-to-project)**: Short description of the project.
-- **[Project Name](link-to-project)**: Short description of the project.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-castelblanco-dev)
 
 Feel free to reach out if you have any questions or just want to connect!
 
