@@ -7,8 +7,8 @@
 I'm a passionate full-stack web and mobile developer specializing in React, React Native + Expo, Firestore, and TypeScript. I love building responsive and user-friendly applications.
 
 - 🔭 I’m currently working on enhancing my skills in React and React Native development.
-- 🌱 I’m currently learning GraphQL to improve my backend development skills.
 - 💬 Ask me about anything related to web and mobile development using React and React Native.
+- 🌱 I’m currently learning Django to improve my backend development skills.
 
 ## Stacks
 
@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=plastic)
+![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
