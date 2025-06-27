@@ -4,11 +4,17 @@
 
 ## About Me
 
-I'm a passionate full-stack web and mobile developer specializing in React, React Native + Expo, Firestore, and TypeScript. I love building responsive and user-friendly applications.
+🚀 Full-Stack Web & Mobile Developer | 2 Years Experience 🚀
 
-- 🔭 I’m currently working on enhancing my skills in React and React Native development.
-- 💬 Ask me about anything related to web and mobile development using React and React Native.
-- 🌱 I’m currently learning Django to improve my backend development skills.
+I'm a passionate **Full-Stack Web & Mobile Developer** with **2 years of hands-on experience** crafting responsive and user-friendly applications. I specialize in **React, React Native + Expo, TypeScript, and Firestore**, bringing ideas to life across web and mobile platforms.
+
+🏢 **Currently working** on building scalable solutions at [Nombre de tu Empresa, si quieres mencionarla]. This experience is constantly enhancing my skills in [menciona tecnologías o áreas específicas que estés trabajando/mejorando en tu empleo actual, e.g., "optimización de rendimiento" o "integración de APIs complejas"].
+
+🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Django** to strengthen my backend development skills and explore new architectural patterns.
+
+💬 **Ask me about:** Web and mobile development (especially React & React Native), TypeScript, Firebase/Firestore, or anything related to building robust and engaging user experiences!
+
+⚡ Fun fact: [Algo ligero sobre ti si quieres, opcional]
 
 ## Stacks
 
