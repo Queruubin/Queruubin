@@ -22,7 +22,7 @@ Here are some of the technologies I work with:
 ![Static Badge](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=white&logoSize=auto&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=next.js&logoColor=blue&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Nexts.js-white?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=auto&labelColor=%23000000)
 
 ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=ec5990&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/zod-blue?style=for-the-badge&logo=zod&logoColor=blue&logoSize=auto&labelColor=black)
@@ -35,11 +35,11 @@ Here are some of the technologies I work with:
 ![Static Badge](https://img.shields.io/badge/Fireabse-yellow?style=for-the-badge&logo=firebase&logoColor=yellow&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue&logoSize=auto&labelColor=black)
 
-![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=red&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TYpescript-white?style=for-the-badge&logo=typescript&logoColor=blue&logoSize=auto&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=green&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB)
 
 ## Find Me Around the Web
 
