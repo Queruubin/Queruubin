@@ -30,6 +30,7 @@ Here are some of the technologies I work with:
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue&logoSize=auto&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Nest.js-black?style=for-the-badge&logo=nestjs&logoColor=black&logoSize=auto&labelColor=%23E0234E)
 
 ![Static Badge](https://img.shields.io/badge/Fireabse-yellow?style=for-the-badge&logo=firebase&logoColor=yellow&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue&logoSize=auto&labelColor=black)
