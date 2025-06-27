@@ -10,9 +10,9 @@ I'm a passionate **Full-Stack Web & Mobile Developer** with **2 years of hands-o
 
 - 🏢 **Currently working** on building scalable solutions at Serlefin. This experience is constantly enhancing my skills in *SQL*, *Vue.js* and *.Net*.
 
-🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Nest.js** to strengthen my backend development skills and explore new architectural patterns.
+- 🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Nest.js** to strengthen my backend development skills and explore new architectural patterns.
 
-💬 **Ask me about:** Web and mobile development (especially React & React Native), TypeScript, Firebase/Firestore, or anything related to building robust and engaging user experiences!
+- 💬 **Ask me about:** Web and mobile development (especially React & React Native), TypeScript, Firebase/Firestore, or anything related to building robust and engaging user experiences!
 
 ## Stacks
 
