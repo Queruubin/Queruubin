@@ -8,13 +8,11 @@
 
 I'm a passionate **Full-Stack Web & Mobile Developer** with **2 years of hands-on experience** crafting responsive and user-friendly applications. I specialize in **React, React Native + Expo, TypeScript, and Firestore**, bringing ideas to life across web and mobile platforms.
 
-🏢 **Currently working** on building scalable solutions at [Nombre de tu Empresa, si quieres mencionarla]. This experience is constantly enhancing my skills in [menciona tecnologías o áreas específicas que estés trabajando/mejorando en tu empleo actual, e.g., "optimización de rendimiento" o "integración de APIs complejas"].
+- 🏢 **Currently working** on building scalable solutions at Serlefin. This experience is constantly enhancing my skills in *SQL*, *Vue.js* and *.Net*.
 
-🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Django** to strengthen my backend development skills and explore new architectural patterns.
+🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Nest.js** to strengthen my backend development skills and explore new architectural patterns.
 
 💬 **Ask me about:** Web and mobile development (especially React & React Native), TypeScript, Firebase/Firestore, or anything related to building robust and engaging user experiences!
-
-⚡ Fun fact: [Algo ligero sobre ti si quieres, opcional]
 
 ## Stacks
 
