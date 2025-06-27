@@ -18,27 +18,27 @@ I'm a passionate **Full-Stack Web & Mobile Developer** with **2 years of hands-o
 
 Here are some of the technologies I work with:
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Static Badge](https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo&logoColor=white&logoSize=auto&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=blue&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=next.js&logoColor=blue&logoSize=auto&labelColor=black)
 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-ec5990?style=for-the-badge&logo=reacthookform&logoColor=ec5990&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/zod-blue?style=for-the-badge&logo=zod&logoColor=blue&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Google%20Maps-green?style=for-the-badge&logo=googlemaps&logoColor=red&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-white?style=for-the-badge&logo=tailwindcss&logoColor=blue&logoSize=auto&labelColor=black)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/Fireabse-yellow?style=for-the-badge&logo=firebase&logoColor=yellow&logoSize=auto&labelColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue&logoSize=auto&labelColor=black)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=red&logoSize=auto&labelColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=yellow&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TYpescript-white?style=for-the-badge&logo=typescript&logoColor=blue&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=green&logoSize=auto&labelColor=black)
 
 ## Find Me Around the Web
 
