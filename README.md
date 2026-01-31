@@ -43,7 +43,7 @@ Here are some of the technologies I work with:
 
 ## Find Me Around the Web
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-castelblanco-dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-castelblanco)
 
 Feel free to reach out if you have any questions or just want to connect!
 
