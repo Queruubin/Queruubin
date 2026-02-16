@@ -10,7 +10,7 @@ I'm a **Full-Stack Web & Mobile Developer** with **over 3 years of professional 
 
 I specialize in **React, React Native + Expo, TypeScript, and Firebase/Firestore**, and I have experience working in **enterprise environments**, combining development with process automation.
 
-- 🏢 **Currently working at** *:contentReference[oaicite:0]{index=0}*, where I develop **RPA automations** and contribute to **web development projects**, improving operational efficiency and internal processes using technologies such as **SQL, Vue.js, and .NET**.
+- 🏢 **Currently working at** *Serlefin*, where I develop **RPA automations** and contribute to **web development projects**, improving operational efficiency and internal processes using technologies such as **SQL server, Vue.js, and .NET**.
 
 - 🤖 **Automation & RPA:** Experience designing and implementing automations to optimize repetitive business workflows and integrate systems.
 
