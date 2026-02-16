@@ -4,15 +4,19 @@
 
 ## About Me
 
-🚀 Full-Stack Web & Mobile Developer | 2 Years Experience 🚀
+🚀 Full-Stack Web & Mobile Developer | 3+ Years of Experience 🚀
 
-I'm a passionate **Full-Stack Web & Mobile Developer** with **2 years of hands-on experience** crafting responsive and user-friendly applications. I specialize in **React, React Native + Expo, TypeScript, and Firestore**, bringing ideas to life across web and mobile platforms.
+I'm a **Full-Stack Web & Mobile Developer** with **over 3 years of professional experience** building scalable, maintainable, and user-focused applications across web and mobile platforms.
 
-- 🏢 **Currently working** on building scalable solutions at *Serlefin*. This experience is constantly enhancing my skills in *SQL*, *Vue.js* and *.Net*.
+I specialize in **React, React Native + Expo, TypeScript, and Firebase/Firestore**, and I have experience working in **enterprise environments**, combining development with process automation.
 
-- 🌱 **Continuously learning:** Always eager to expand my horizons! I'm currently diving deeper into **Nest.js** to strengthen my backend development skills and explore new architectural patterns.
+- 🏢 **Currently working at** *:contentReference[oaicite:0]{index=0}*, where I develop **RPA automations** and contribute to **web development projects**, improving operational efficiency and internal processes using technologies such as **SQL, Vue.js, and .NET**.
 
-- 💬 **Ask me about:** Web and mobile development (especially React & React Native), TypeScript, Firebase/Firestore, or anything related to building robust and engaging user experiences!
+- 🤖 **Automation & RPA:** Experience designing and implementing automations to optimize repetitive business workflows and integrate systems.
+
+- 🌱 **Continuous learning:** Actively deepening my backend expertise with **NestJS**, focusing on clean architecture, scalability, and best practices.
+
+- 💬 **Ask me about:** Web and mobile development, React / React Native, TypeScript, Firebase, RPA automation, or building efficient and scalable solutions.
 
 ## Stacks
 
